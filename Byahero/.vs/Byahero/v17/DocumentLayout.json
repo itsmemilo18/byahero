@@ -1,0 +1,117 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\tapaw\\source\\repos\\Byahero\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{061C0DC8-1685-41F1-B3D8-AC2676BAC22A}|Byahero\\Byahero.csproj|c:\\users\\tapaw\\source\\repos\\byahero\\byahero\\firstpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{061C0DC8-1685-41F1-B3D8-AC2676BAC22A}|Byahero\\Byahero.csproj|solutionrelative:byahero\\firstpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{061C0DC8-1685-41F1-B3D8-AC2676BAC22A}|Byahero\\Byahero.csproj|c:\\users\\tapaw\\source\\repos\\byahero\\byahero\\profile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{061C0DC8-1685-41F1-B3D8-AC2676BAC22A}|Byahero\\Byahero.csproj|solutionrelative:byahero\\profile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{061C0DC8-1685-41F1-B3D8-AC2676BAC22A}|Byahero\\Byahero.csproj|C:\\Users\\tapaw\\source\\repos\\Byahero\\byahero\\goal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{061C0DC8-1685-41F1-B3D8-AC2676BAC22A}|Byahero\\Byahero.csproj|solutionrelative:byahero\\goal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{061C0DC8-1685-41F1-B3D8-AC2676BAC22A}|Byahero\\Byahero.csproj|C:\\Users\\tapaw\\source\\repos\\Byahero\\byahero\\forgototp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{061C0DC8-1685-41F1-B3D8-AC2676BAC22A}|Byahero\\Byahero.csproj|solutionrelative:byahero\\forgototp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{061C0DC8-1685-41F1-B3D8-AC2676BAC22A}|Byahero\\Byahero.csproj|C:\\Users\\tapaw\\source\\repos\\Byahero\\byahero\\jeepdatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{061C0DC8-1685-41F1-B3D8-AC2676BAC22A}|Byahero\\Byahero.csproj|solutionrelative:byahero\\jeepdatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{061C0DC8-1685-41F1-B3D8-AC2676BAC22A}|Byahero\\Byahero.csproj|C:\\Users\\tapaw\\source\\repos\\Byahero\\byahero\\jeepdatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{061C0DC8-1685-41F1-B3D8-AC2676BAC22A}|Byahero\\Byahero.csproj|solutionrelative:byahero\\jeepdatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FirstPage.cs",
+              "DocumentMoniker": "C:\\Users\\tapaw\\source\\repos\\Byahero\\Byahero\\FirstPage.cs",
+              "RelativeDocumentMoniker": "Byahero\\FirstPage.cs",
+              "ToolTip": "C:\\Users\\tapaw\\source\\repos\\Byahero\\Byahero\\FirstPage.cs",
+              "RelativeToolTip": "Byahero\\FirstPage.cs",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAmwGgAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T11:39:22.231Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Profile.cs",
+              "DocumentMoniker": "C:\\Users\\tapaw\\source\\repos\\Byahero\\Byahero\\Profile.cs",
+              "RelativeDocumentMoniker": "Byahero\\Profile.cs",
+              "ToolTip": "C:\\Users\\tapaw\\source\\repos\\Byahero\\Byahero\\Profile.cs",
+              "RelativeToolTip": "Byahero\\Profile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T10:34:29.108Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Goal.cs",
+              "DocumentMoniker": "C:\\Users\\tapaw\\source\\repos\\Byahero\\Byahero\\Goal.cs",
+              "RelativeDocumentMoniker": "Byahero\\Goal.cs",
+              "ToolTip": "C:\\Users\\tapaw\\source\\repos\\Byahero\\Byahero\\Goal.cs",
+              "RelativeToolTip": "Byahero\\Goal.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T10:31:41.392Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ForgotOTP.cs",
+              "DocumentMoniker": "C:\\Users\\tapaw\\source\\repos\\Byahero\\Byahero\\ForgotOTP.cs",
+              "RelativeDocumentMoniker": "Byahero\\ForgotOTP.cs",
+              "ToolTip": "C:\\Users\\tapaw\\source\\repos\\Byahero\\Byahero\\ForgotOTP.cs",
+              "RelativeToolTip": "Byahero\\ForgotOTP.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABYAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T10:31:23.634Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "JeepDatabase.cs",
+              "DocumentMoniker": "C:\\Users\\tapaw\\source\\repos\\Byahero\\Byahero\\JeepDatabase.cs",
+              "RelativeDocumentMoniker": "Byahero\\JeepDatabase.cs",
+              "ToolTip": "C:\\Users\\tapaw\\source\\repos\\Byahero\\Byahero\\JeepDatabase.cs",
+              "RelativeToolTip": "Byahero\\JeepDatabase.cs",
+              "ViewState": "AgIAAKsBAAAAAAAAAAAAANUAAACsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T05:47:35.703Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "JeepDatabase.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\tapaw\\source\\repos\\Byahero\\Byahero\\JeepDatabase.cs",
+              "RelativeDocumentMoniker": "Byahero\\JeepDatabase.cs",
+              "ToolTip": "C:\\Users\\tapaw\\source\\repos\\Byahero\\Byahero\\JeepDatabase.cs [Design]",
+              "RelativeToolTip": "Byahero\\JeepDatabase.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T05:47:33.208Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

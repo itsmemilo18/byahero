@@ -1,0 +1,10 @@
+C:\Users\tapaw\source\repos\Byahero\HomePage\bin\Debug\HomePage.exe.config
+C:\Users\tapaw\source\repos\Byahero\HomePage\bin\Debug\HomePage.exe
+C:\Users\tapaw\source\repos\Byahero\HomePage\bin\Debug\HomePage.pdb
+C:\Users\tapaw\source\repos\Byahero\HomePage\obj\Debug\HomePage.csproj.AssemblyReference.cache
+C:\Users\tapaw\source\repos\Byahero\HomePage\obj\Debug\HomePage.Form2.resources
+C:\Users\tapaw\source\repos\Byahero\HomePage\obj\Debug\HomePage.Properties.Resources.resources
+C:\Users\tapaw\source\repos\Byahero\HomePage\obj\Debug\HomePage.csproj.GenerateResource.cache
+C:\Users\tapaw\source\repos\Byahero\HomePage\obj\Debug\HomePage.csproj.CoreCompileInputs.cache
+C:\Users\tapaw\source\repos\Byahero\HomePage\obj\Debug\HomePage.exe
+C:\Users\tapaw\source\repos\Byahero\HomePage\obj\Debug\HomePage.pdb
